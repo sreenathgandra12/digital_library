@@ -1,0 +1,33 @@
+Books:
+
+bookld
+
+- bookName
+
+- publication Year
+
+price
+
+category
+
+insertion Time
+
+- updation Time
+
+2. Author:
+
+authorld
+
+- authorName
+
+- Address
+
+3. User:
+
+- userld
+
+userName
+
+user Mobile No
+
+- userEmailld
